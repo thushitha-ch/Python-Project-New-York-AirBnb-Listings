@@ -131,7 +131,7 @@ This project offers valuable insights into the New York Airbnb market, helping b
 
 ## Contact
 For any queries, feel free to reach out at:
-- **GitHub**: [Your GitHub](https://github.com/thushitha-ch)  
+- **GitHub**: [Thushitha](https://github.com/thushitha-ch)  
 
 ---
 
