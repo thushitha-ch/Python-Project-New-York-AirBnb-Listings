@@ -88,6 +88,24 @@ The dataset contains **20,765 entries and 22 features**, including:
 
 ---
 
+---
+
+## How to Run This Project
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/thushitha-ch/Python-Project-New-York-AirBnb-Listings
+   ```
+2. Install the required libraries:
+   ```bash
+   pip install pandas numpy matplotlib seaborn
+   ```
+3. Run the **Jupyter notebook** or **Python script**:
+   ```bash
+   jupyter notebook airbnb.ipynb
+   ```
+
+---
+
 ## Recommendations
 - **For Guests**: 
    - Look for listings with high availability and good reviews for a better experience.
@@ -108,5 +126,13 @@ The dataset contains **20,765 entries and 22 features**, including:
 
 ## Conclusion
 This project offers valuable insights into the New York Airbnb market, helping both guests and hosts make informed decisions. By using **EDA techniques**, we identified key trends and developed actionable recommendations. Future improvements can involve advanced analytics and predictive modeling to further enhance the findings.
+
+---
+
+## Contact
+For any queries, feel free to reach out at:
+- **GitHub**: [Your GitHub](https://github.com/thushitha-ch)  
+
+---
 
 ---
